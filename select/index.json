@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Hope Song",
+  "base_artist": "焔魔るり",
+  "createdAt": "2026-01-06T05:56:14.394603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Hope Song",
+      "artist": "Citizen Way",
+      "has_synced": true,
+      "path": "select/01_The_Hope_Song_Citizen_Way.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "January 0th (a hope song)",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/02_January_0th_(a_hope_song)_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "January 0th (a hope song)",
+      "artist": "Billlie",
+      "has_synced": false,
+      "path": "select/03_January_0th_(a_hope_song)_Billlie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "January 0th (a hope song)",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/04_January_0th_(a_hope_song)_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hope Song",
+      "artist": "Rock Kills Kid",
+      "has_synced": false,
+      "path": "select/05_Hope_Song_Rock_Kills_Kid.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hope Song",
+      "artist": "Impact",
+      "has_synced": false,
+      "path": "select/06_Hope_Song_Impact.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Hope Song",
+      "artist": "Citizen Way",
+      "has_synced": true,
+      "path": "select/07_The_Hope_Song_Citizen_Way.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hope Song (From \"Sarkeet\")",
+      "artist": "Kapil Kapilan",
+      "has_synced": true,
+      "path": "select/08_Hope_Song_(From__Sarkeet_)_Kapil_Kapilan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hope Song",
+      "artist": "Genevieve Artadi",
+      "has_synced": false,
+      "path": "select/09_Hope_Song_Genevieve_Artadi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hope Song",
+      "artist": "焔魔るり",
+      "has_synced": false,
+      "path": "select/pl_01_Hope_Song_焔魔るり.txt"
+    }
+  ]
+}
